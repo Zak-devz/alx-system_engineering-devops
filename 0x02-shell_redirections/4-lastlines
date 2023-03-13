@@ -1,2 +1,2 @@
 #!/bin/bash
-tail /etc/passwc
+tail -n 10 /etc/passwc
